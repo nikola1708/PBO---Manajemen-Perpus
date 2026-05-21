@@ -3,7 +3,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Database {
-    // Sesuaikan username dan password database Anda di sini
     private static final String URL = "jdbc:mysql://localhost:3306/manajemenperpus";
     private static final String USER = "root";
     private static final String PASS = "1234";
